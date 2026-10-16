@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rumah Ilmu - Teman Belajar Guru, Orang Tua, dan Anak",
+  "description": "Media pembelajaran digital terpadu untuk jenjang SD kelas 1-6 yang menghubungkan guru, orang tua, dan anak dengan materi, LKPD, game edukatif, kuis, video, dan panduan belajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
